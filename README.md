@@ -8,7 +8,7 @@ Repositori ini berisi *file-file* untuk Ujian Akhir Semester (UAS) mata kuliah *
 
 | Nama Lengkap | NIM |
 | :--- | :--- |
-| Danny SUggi Saputra | 1227050033 |
+| Danny Suggi Saputra | 1227050033 |
 | Alhan Husen | 1227050015 |
 | Alif Firmansyah Putra | 1227050016 |
 
